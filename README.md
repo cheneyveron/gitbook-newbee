@@ -1,2 +1,2 @@
-# Initial page
+帮你入门软件开发。
 
